@@ -1,0 +1,27 @@
+_repo: The-Trial-of-Peter-Zenger_54836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Buranelli, Vincent
+    gutenberg_agent_id: '48068'
+    url: http://www.gutenberg.org/2009/agents/48068
+description: ''
+gutenberg_issued: '2017-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zenger, John Peter, 1697-1746'
+- !lcsh 'New York weekly journal'
+- GITenberg
+title: The Trial of Peter Zenger
+url: http://www.gutenberg.org/ebooks/54836
